@@ -4,6 +4,7 @@ using System.Linq;
 
 class ContadorDeVocalesConsola
 {
+    //Hola (Angel)
     static void Main()
     {
         ConsoleKeyInfo cki;
